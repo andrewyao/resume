@@ -1,2 +1,2 @@
 default:
-	latex resume.tex && dvipdf resume.dvi resume.pdf
+	latex resume.tex && dvipdfm resume.dvi
